@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/robertfox11/NPM#readme",
   "dependencies": {
+    "async": "^3.1.0",
+    "html": "^1.0.0",
     "moment": "^2.24.0"
   }
 }
