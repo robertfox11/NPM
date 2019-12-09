@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/robertfox11/NPM/issues"
   },
-  "homepage": "https://github.com/robertfox11/NPM#readme"
+  "homepage": "https://github.com/robertfox11/NPM#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
 }
